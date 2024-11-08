@@ -435,19 +435,25 @@ function App() {
             </PhaseDescription>
           </PhaseContainer>
           <PhaseContainer>
-            <PhaseTitle>🌟 Phase 5: Partnerships & Collaborations</PhaseTitle>
+            <PhaseTitle>🎤 Phase 5: Music NFT Social Media DApp</PhaseTitle>
+            <PhaseDescription>
+              Launch a music NFT social media DApp that allows users to create, share, and trade music NFTs. This platform will provide utility for our community by enabling artists to monetize their work and fans to engage with exclusive content.
+            </PhaseDescription>
+          </PhaseContainer>
+          <PhaseContainer>
+            <PhaseTitle>🌟 Phase 6: Partnerships & Collaborations</PhaseTitle>
             <PhaseDescription>
               We’ll team up with other meme projects and influencers to expand our reach and create even more fun experiences for our community!
             </PhaseDescription>
           </PhaseContainer>
           <PhaseContainer>
-            <PhaseTitle>🏆 Phase 6: Meme Contests</PhaseTitle>
+            <PhaseTitle>🏆 Phase 7: Meme Contests</PhaseTitle>
             <PhaseDescription>
               Get your creative juices flowing! We'll host meme contests where the community can showcase their best Jamming Pepe memes for a chance to win awesome prizes!
             </PhaseDescription>
           </PhaseContainer>
           <PhaseContainer>
-            <PhaseTitle>🎊 Phase 7: The Great Pepe Festival</PhaseTitle>
+            <PhaseTitle>🎊 Phase 8: The Great Pepe Festival</PhaseTitle>
             <PhaseDescription>
               Celebrate the success of Jamming Pepe with a grand virtual festival! Expect music, games, and lots of fun as we come together to jam and enjoy the community we've built!
             </PhaseDescription>
