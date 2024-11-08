@@ -413,43 +413,43 @@ function App() {
           <PhaseContainer>
             <PhaseTitle>🚀 Phase 1: Stealth Launch</PhaseTitle>
             <PhaseDescription>
-              We kick things off with a stealth launch on Pump.fun! Get ready to jam with us as we 
-              unveil the magic of Jamming Pepe to the world!
+              We kick things off with a stealth launch on Pump.fun! Get ready to jam with us as we unveil the magic of Jamming Pepe to the world!
             </PhaseDescription>
           </PhaseContainer>
           <PhaseContainer>
             <PhaseTitle>🎉 Phase 2: Meme Mania</PhaseTitle>
             <PhaseDescription>
-              Time to spread the word! We'll unleash a wave of memes across social media, 
-              bringing the community together to celebrate the joy of Jamming Pepe!
+              Time to spread the word! We'll unleash a wave of memes across social media, bringing the community together to celebrate the joy of Jamming Pepe!
             </PhaseDescription>
           </PhaseContainer>
           <PhaseContainer>
             <PhaseTitle>🎶 Phase 3: Community Jams</PhaseTitle>
             <PhaseDescription>
-              Join us for virtual jam sessions! We'll host events where the community can come 
-              together, share music, and enjoy the laid-back vibes of Jamming Pepe!
+              Join us for virtual jam sessions! We'll host events where the community can come together, share music, and enjoy the laid-back vibes of Jamming Pepe!
             </PhaseDescription>
           </PhaseContainer>
           <PhaseContainer>
-            <PhaseTitle>🌟 Phase 4: Partnerships & Collaborations</PhaseTitle>
+            <PhaseTitle>🎵 Phase 4: Music Bot for Telegram</PhaseTitle>
             <PhaseDescription>
-              We’ll team up with other meme projects and influencers to expand our reach and 
-              create even more fun experiences for our community!
+              Introducing our very own music bot for Telegram! Enjoy seamless music sharing and listening experiences with your friends in the community.
             </PhaseDescription>
           </PhaseContainer>
           <PhaseContainer>
-            <PhaseTitle>🏆 Phase 5: Meme Contests</PhaseTitle>
+            <PhaseTitle>🌟 Phase 5: Partnerships & Collaborations</PhaseTitle>
             <PhaseDescription>
-              Get your creative juices flowing! We'll host meme contests where the community can 
-              showcase their best Jamming Pepe memes for a chance to win awesome prizes!
+              We’ll team up with other meme projects and influencers to expand our reach and create even more fun experiences for our community!
             </PhaseDescription>
           </PhaseContainer>
           <PhaseContainer>
-            <PhaseTitle>🎊 Phase 6: The Great Pepe Festival</PhaseTitle>
+            <PhaseTitle>🏆 Phase 6: Meme Contests</PhaseTitle>
             <PhaseDescription>
-              Celebrate the success of Jamming Pepe with a grand virtual festival! Expect music, 
-              games, and lots of fun as we come together to jam and enjoy the community we've built!
+              Get your creative juices flowing! We'll host meme contests where the community can showcase their best Jamming Pepe memes for a chance to win awesome prizes!
+            </PhaseDescription>
+          </PhaseContainer>
+          <PhaseContainer>
+            <PhaseTitle>🎊 Phase 7: The Great Pepe Festival</PhaseTitle>
+            <PhaseDescription>
+              Celebrate the success of Jamming Pepe with a grand virtual festival! Expect music, games, and lots of fun as we come together to jam and enjoy the community we've built!
             </PhaseDescription>
           </PhaseContainer>
         </div>
